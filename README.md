@@ -3,6 +3,7 @@
 ### Description:
 The provided description explains that the dataset consists of images of hand-drawn digits, where each image is a 28x28 matrix of pixel values. Here's a more concise summary of the information: 
 
+
 - Dataset: train.csv and test.csv <br />
 - Image Format: Gray-scale images of hand-drawn digits (0 through 9) <br />
 - Image Size: 28 pixels in height and 28 pixels in width, totaling 784 pixels <br />
